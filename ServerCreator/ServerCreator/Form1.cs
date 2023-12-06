@@ -21,5 +21,10 @@ namespace ServerCreator
         {
 
         }
+
+        private void CloseBox_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

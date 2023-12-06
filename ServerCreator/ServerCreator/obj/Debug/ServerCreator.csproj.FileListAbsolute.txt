@@ -1,0 +1,13 @@
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\bin\Debug\ServerCreator.exe.config
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\bin\Debug\ServerCreator.exe
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\bin\Debug\ServerCreator.pdb
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\bin\Debug\Guna.UI2.dll
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.AssemblyReference.cache
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.Form1.resources
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.Properties.Resources.resources
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.GenerateResource.cache
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.CoreCompileInputs.cache
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.CopyComplete
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.exe
+C:\Users\night\Documents\GitHub\ServerCreator\ServerCreator\ServerCreator\obj\Debug\ServerCreator.pdb
