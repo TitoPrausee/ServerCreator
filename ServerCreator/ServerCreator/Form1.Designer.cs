@@ -29,13 +29,16 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.Form1Elipse = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.DragSpace = new System.Windows.Forms.Panel();
             this.DragForm1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.CloseBox = new Guna.UI2.WinForms.Guna2ControlBox();
             this.MinimizeBox = new Guna.UI2.WinForms.Guna2ControlBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.DragSpace.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // Form1Elipse
@@ -45,6 +48,7 @@
             // DragSpace
             // 
             this.DragSpace.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.DragSpace.Controls.Add(this.pictureBox1);
             this.DragSpace.Controls.Add(this.MinimizeBox);
             this.DragSpace.Controls.Add(this.CloseBox);
             this.DragSpace.Cursor = System.Windows.Forms.Cursors.SizeAll;
@@ -96,6 +100,16 @@
             this.panel1.Size = new System.Drawing.Size(69, 510);
             this.panel1.TabIndex = 1;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(-15, -41);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(122, 122);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 2;
+            this.pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -110,6 +124,7 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.DragSpace.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -122,6 +137,7 @@
         private Guna.UI2.WinForms.Guna2ControlBox CloseBox;
         private Guna.UI2.WinForms.Guna2ControlBox MinimizeBox;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
