@@ -1,6 +1,6 @@
 # 🚀 Server Management Application
 
-
+![App Screenshot](screenshot.png)
 
 A Windows Forms application in C# .NET designed for easy creation and management of servers, specifically tailored for games like FiveM. It provides a user-friendly interface, server configuration, file management, and external server communication.
 
@@ -14,4 +14,5 @@ A Windows Forms application in C# .NET designed for easy creation and management
 
 ## License
 
-This project is licensed under the [GNU License](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
+
