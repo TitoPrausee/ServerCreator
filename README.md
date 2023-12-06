@@ -14,4 +14,4 @@ A Windows Forms application in C# .NET designed for easy creation and management
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL License](LICENSE).
